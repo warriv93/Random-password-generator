@@ -1,0 +1,28 @@
+.resultContainer {
+    margin: 20px;
+    width: 800px;
+    text-align: center;
+
+}
+#result{
+    width: 800px;
+    /*font-size: 25px;*/
+}
+.inputContainer {
+    text-align: center;
+    margin: 20px;
+    width: 800px;
+}
+
+#btnGeneratepw {
+}
+#pwLength{
+    margin-left: 300px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 200px;
+}
+
+h1 {
+	text-align: center;
+}
